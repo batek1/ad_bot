@@ -34,6 +34,10 @@ const partnershipTimestamps = new Map();
 
 
 
+client.once('ready', () => {
+  console.log(`Bot ${client.user.tag} jest gotowy.`);
+  
+
   // reklamowanie serwera
   const channelId_programming = '1252290252328927353';
   const channelId_global = '1252285992396918835';
