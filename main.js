@@ -24,8 +24,16 @@ client.once('ready', () => {
 
 // Reklama serwera
 const serverAd = `
-# ZAPRASZAM DO WSPÓŁPRACY NAD GRĄ W ROBLOX
-**więcej informacji na pv -> alfonzo54821**
+**⚽ Dołącz do rewolucji piłkarskiej! 🎮**
+
+Szukasz miejsca, gdzie możesz tworzyć grę piłkarską razem z pasjonatami? Nasz serwer Discord to przestrzeń, w której programiści, graficy, designerzy i fani futbolu łączą siły, aby stworzyć coś wyjątkowego!
+
+✅ Wspólna wizja – razem budujemy jedną wielką grę!
+🎨 Różne role – każdy znajdzie tu swoje miejsce: od kodowania po projektowanie mechanik.
+💡 Burza mózgów – dziel się pomysłami i inspiruj innych.
+🏆 Praca zespołowa – rozwijaj umiejętności i zdobywaj doświadczenie.
+
+Dołącz do nas i stwórzmy razem przyszłość gier piłkarskich! 🏆🚀
 `;
 
 // Lista użytkowników partnerstwa i ich czas ostatniego partnerstwa
